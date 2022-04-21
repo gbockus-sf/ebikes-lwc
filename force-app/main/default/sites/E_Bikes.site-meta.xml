@@ -23,10 +23,10 @@
     <referrerPolicyOriginWhenCrossOrigin
     >true</referrerPolicyOriginWhenCrossOrigin>
     <selfRegPage>CommunitiesSelfReg</selfRegPage>
-    <siteAdmin>test-yypfaowt42yo@example.com</siteAdmin>
+    <siteAdmin>gbockus+tbdx2022@salesforce.com</siteAdmin>
     <siteGuestRecordDefaultOwner
-    >test-yypfaowt42yo@example.com</siteGuestRecordDefaultOwner>
+    >gbockus+tbdx2022@salesforce.com</siteGuestRecordDefaultOwner>
     <siteType>ChatterNetwork</siteType>
-    <subdomain>efficiency-connect-1801-dev--1701a0bb7eb</subdomain>
+    <subdomain>gbockus-tbdx2022</subdomain>
     <urlPathPrefix>ebikes</urlPathPrefix>
 </CustomSite>
