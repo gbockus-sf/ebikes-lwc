@@ -220,3 +220,15 @@ npm run prettier
 ## Code Tours
 
 Code Tours are guided walkthroughs that will help you understand the app code better. To be able to run them, install the [CodeTour VSCode extension](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour).
+
+## Gordon Cheat Sheet
+
+CONFLICT DETECTION
+Search for setting: detect conflicts at
+
+ANON APEX
+List<Product**c> similarProducts = ProductController.getSimilarProducts(singleProduct.Id, singleProduct.Product_Family**c);
+
+CUSTOM TEMPLATES
+URL: https://github.com/gbockus-sf/salesforcedx-templates
+"customOrgMetadataTemplates": "https://github.com/gbockus-sf/salesforcedx-templates/tree/main/packages/templates/src/templates"

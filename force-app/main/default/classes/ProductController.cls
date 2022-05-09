@@ -81,4 +81,27 @@ public with sharing class ProductController {
             WITH SECURITY_ENFORCED
         ];
     }
+
+    // @AuraEnabled
+    // public static string getPriceSymbol(Id productId){
+    //     try {
+    //         List<Product__c> products = [
+    //             SELECT Id, MSRP__c from Product__c where Id = :productId
+    //         ];
+
+    //         Product__c p = products[0];
+    //         if (p.MSRP__c <= 3000) {
+    //             return '$';
+    //         } else if (p.MSRP__c <= 4000) {
+    //             return '$$';
+    //         } else if (p.MSRP__c < 5000) {
+    //             return '$$$';
+    //         } else {
+    //             return '$$$$';
+    //         }
+    //     } catch (Exception e) {
+    //         throw new AuraHandledException(e.getMessage());
+    //     }
+    // }
+
 }
